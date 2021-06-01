@@ -5,6 +5,8 @@
 ### I'm currently learning at 42.
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/seongjpa)](https://github.com/JaeSeoKim/badge42)
 
+### Solved.ac (PS)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=zzapcoder)](https://solved.ac/zzapcoder)
 <!--
 **goyarn/goyarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
